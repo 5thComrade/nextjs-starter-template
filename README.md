@@ -11,7 +11,7 @@ This is a [Next.js](https://nextjs.org/) project template.
 To use this template:
 
 ```bash
-npx create-next-app --example https://github.com/5thComrade/nextjs-starter-template <YOUR_APP_NAME>
+npx create-next-app --example "https://github.com/5thComrade/nextjs-starter-template" <YOUR_APP_NAME>
 ```
 
 To spin up the dev server:
