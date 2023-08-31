@@ -1,0 +1,9 @@
+{
+  "cSpell.words": ["clsx", "lucide", "nextjs", "shadcn", "tailwindcss"],
+  "editor.lineHeight": 24,
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

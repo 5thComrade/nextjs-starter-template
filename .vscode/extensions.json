@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint",
+    "wix.vscode-import-cost",
+    "esbenp.prettier-vscode",
+    "SonarSource.sonarlint-vscode",
+    "bradlc.vscode-tailwindcss",
+    "PKief.material-icon-theme",
+    "usernamehw.errorlens"
+  ]
+}
