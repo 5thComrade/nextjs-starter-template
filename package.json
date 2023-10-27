@@ -15,8 +15,8 @@
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.0.2",
-    "lucide-react": "^0.272.0",
-    "next": "^13.5.3",
+    "lucide-react": "^0.290.0",
+    "next": "^14.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -30,7 +30,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "eslint": "^8.48.0",
-    "eslint-config-next": "^13.5.3",
+    "eslint-config-next": "^14.0.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-tailwindcss": "^3.13.0",
     "husky": "^8.0.0",
